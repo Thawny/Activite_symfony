@@ -10,6 +10,7 @@ class Purge
     {
         $deprecatedAdverts = $advertRepository->getDeprecatedAdverts(6);
 
+//         voila un commmentaire
 
     }
 }
